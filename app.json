@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Qetita",
+    "slug": "qetita-real-estate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F4F8FF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.qetita.realestate"
+    },
+    "android": {
+      "package": "com.qetita.realestate",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
